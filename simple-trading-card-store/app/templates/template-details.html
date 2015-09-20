@@ -1,0 +1,29 @@
+<div>
+  <h3><a href="#/templates">Go Back</a>
+  </h3>
+  <div class="col-md-4">
+    <img class="img-full" src="img/{{mainImage}}" alt="">
+    <div class="row">
+      <div ng-repeat="image in template.images | limitTo:4">
+        <div class="col-md-3">
+          <img ng-src="img/{{image.name}}" class="img-full" ng-click="setImage(image)">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-8">
+    <h3>{{template.name}}</h3>
+    <p>{{template.description}}</p>
+    <p>type: {{template.type}}</p>
+    <h4>{{template.price | currency}}</h4>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+      <input type="hidden" name="cmd" value="_xclick">
+      <input type="hidden" name="business" value="you@youremail.com">
+      <input type="hidden" name="item_name" value="{{template.name}}">
+      <input type="hidden" name="item_number" value="{{template.id}}">
+      <input type="hidden" name="currency_code" value="USD">
+      <input type="hidden" name="amount" value="{{template.price}}">
+      <input type="image" src="http://www.paypal.com/en_US/i/btn/x-click-but01.gif" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+    </form>
+  </div>
+</div>

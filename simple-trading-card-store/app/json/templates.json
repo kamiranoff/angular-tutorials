@@ -1,0 +1,174 @@
+[
+{
+  "id": 1,
+  "name": "Apocalypse",
+  "description": "Apocalypse, also known as En Sabah Nur, is a fictional supervillain that appears in American comic books published by Marvel Comics. He is an immortal mutant and is usually portrayed as one of the main antagonists of the X-Men. Created by writer Louise Simonson and artist Jackson Guice, Apocalypse first appeared in X-Factor #5 (May 1986)",
+  "type": "villain",
+  "price": 19.99,
+  "images": [{
+    "name": "apocalypse.jpg"
+  },
+  {
+    "name": "apocalypse2.jpg"
+  },
+  {
+    "name": "apocalypse3.jpg"
+  },
+  {
+    "name": "apocalypse4.jpg"
+  },
+  {
+    "name": "apocalypse5.jpg"
+  }]
+},
+{
+  "id": 2,
+  "name": "Bishop",
+  "description": "Bishop (full name Lucas Bishop) is a fictional superhero appearing in American comic books published by Marvel Comics, particularly titles associated with the X-Men.Bishop first appears as a member of Xavier's Security Enforcers (initially called the Xavier School Enforcers), a mutant police force from a dystopian future of the Marvel Universe. He traveled to the 20th century and joined the X-Men, a team he knew only as legends. A brash antihero, he had difficulty adjusting to the norms of the time period. In the mid-2000s, Bishop was instead portrayed as one of the X-Men's main antagonists.",
+  "type": "X-men",
+  "price": 19.99,
+  "images": [{
+    "name": "bishop.jpg"
+  }]
+},
+{
+  "id": 3,
+  "name": "Cerebra",
+  "description": "Cerebra (Shakti Haddad) is a mutant comic book character in the fictional Marvel Universe. She is a founding member of the X-Men 2099 of 2099 and founder of X-Nation 2099. Her creators were John Francis Moore and Ron Lim.",
+  "type": "X-men",
+  "price": 19.99,
+  "images": [{
+    "name": "cerebra.jpg"
+  }]
+},
+{
+  "id": 4,
+  "name": "Cyclops",
+  "description": "Cyclops is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the comic book The X-Men #1 (September 1963).Cyclops is a member of a subspecies of humans known as mutants, who are born with superhuman abilities. Cyclops can emit powerful beams of energy from his eyes. He cannot control the beams without the aid of special eyewear which he must wear at all times. He is typically considered the first of the X-Men,[1] a team of mutant heroes who fight for peace and equality between mutants and humans, and one of the team's primary leaders.",
+  "type": "X-men",
+  "price": 19.99,
+  "images": [{
+    "name": "cyclops.jpg"
+  }]
+},
+{
+  "id": 5,
+  "name": "Domino",
+  "description": "Domino (Neena Thurman) is a fictional superhero appearing in American comic books published by Marvel Comics. She is best known as a member of the X-Men offshoot X-Force. Created by writer Fabian Nicieza and artist/co-writer Rob Liefeld, she first fully appeared in X-Force, vol. 1 #11 (June 1992).In addition to her exceptional marksmanship and hand-to-hand skills, Domino possesses mutant probability-altering powers, similar to those of the X-Man Longshot. She often uses her skills as a mercenary, but has also been the partner, confidante, and lover of the superhero Cable, a lieutenant in his militant group X-Force, and a member of the X-Men.",
+  "type": "X-men",
+  "price": 19.99,
+  "images": [{
+    "name": "domino.jpg"
+  }]
+},
+{
+  "id": 6,
+  "name": "Ghost Rider",
+  "description": "Ghost Rider is the name of several fictional supernatural antiheroes when appearing in comic books published by Marvel Comics. Marvel had previously used the name for a Western character whose name was later changed to Phantom Rider.",
+  "type": "Hero",
+  "price": 19.99,
+  "images": [{
+    "name": "ghost-rider.jpg"
+  }]
+},
+{
+  "id": 7,
+  "name": "Iceman",
+  "description": "Iceman (Robert \"Bobby\" Drake) is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #1 (September 1963).Iceman is a member of a subspecies of humans known as mutants, who are born with superhuman abilities. He has the ability to manipulate ice and cold by freezing water vapor around him. This allows him to freeze objects, as well as turn his body into ice.",
+  "type": "X-Men",
+  "price": 19.99,
+  "images": [{
+    "name": "iceman.jpg"
+  }]
+},
+{
+  "id": 8,
+  "name": "Iron Man",
+  "description": "Iron Man (Tony Stark) is a fictional superhero appearing in American comic books published by Marvel Comics, as well as its associated media. The character was created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. He made his first appearance in Tales of Suspense #39 (cover dated March 1963).",
+  "type": "Hero",
+  "price": 19.99,
+  "images": [{
+    "name": "ironman.jpg"
+  }]
+},
+{
+  "id": 9,
+  "name": "Jean Grey",
+  "description": "Jean Grey, or Jean Grey-Summers, is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. Jean Grey has been known under the aliases Marvel Girl, Phoenix, and Dark Phoenix. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #1 (September 1963).",
+  "type": "X-Men",
+  "price": 19.99,
+  "images": [{
+    "name": "jean-grey.jpg"
+  },{
+    "name": "jean-grey2.jpg"
+  }]
+},
+{
+  "id": 10,
+  "name": "Psylocke",
+  "description": "Psylocke (Elizabeth \"Betsy\" Braddock) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. Created by writer Chris Claremont and artist Herb Trimpe in 1976, she first appeared in the Marvel UK series Captain Britain.Betsy was initially a supporting character in the adventures of her twin brother, Captain Britain, even briefly substituting for him in the role, before becoming the mutant superheroine and X-Men member Psylocke in 1986. Originally presented as a precognitive in the pages of Captain Britain and then as a telepath, the character eventually had her mind placed in the body of a Japanese female ninja known as Kwannon, gaining many of Kwannon's martial arts skills and elements of her personality. Later, Psylocke acquired the power of telekinesis.",
+  "type": "X-Men",
+  "price": 19.99,
+  "images": [{
+    "name": "psylocke.jpg"
+  },
+  {
+    "name": "psylocke2.jpg"
+  },
+  {
+    "name": "psylocke3.jpg"
+  },
+  {
+    "name": "psylocke4.jpg"
+  },
+  {
+    "name": "psylocke5.jpg"
+  }]
+},
+{
+  "id": 11,
+  "name": "Rogue",
+  "description": "Rogue is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. She debuted in Avengers Annual #10 (November 1981) as a villain, but then soon after joined the X-Men.Rogue is part of a subspecies of humans called mutants, who are born with superhuman abilities. Rogue has the involuntary ability to absorb and sometimes also remove the memories, physical strength, and superpowers of anyone she touches. Therefore, Rogue considers her powers a curse. For most of her life, she limited her physical contact with others, including her on-off love interest, Gambit; but, after many years, Rogue finally gained full control over her mutant ability.",
+  "type": "X-Men",
+  "price": 19.99,
+  "images": [{
+    "name": "rogue.jpg"
+  }]
+},
+{
+  "id": 12,
+  "name": "Spider-Man",
+  "description": "Spider-Man is a fictional superhero appearing in American comic books published by Marvel Comics existing in its shared universe. The character was created by writer-editor Stan Lee and writer-artist Steve Ditko, and first appeared in the anthology comic book Amazing Fantasy #15 (Aug. 1962) in the Silver Age of Comic Books. Lee and Ditko conceived the character as an orphan being raised by his Aunt May and Uncle Ben, and as a teenager, having to deal with the normal struggles of adolescence in addition to those of a costumed crime-fighter. Spider-Man's creators gave him super strength and agility, the ability to cling to most surfaces, shoot spider-webs using wrist-mounted devices of his own invention, which he calls \"web-shooters\", and react to danger quickly with his \"spider-sense\", enabling him to combat his foes.",
+  "type": "Hero",
+  "price": 19.99,
+  "images": [{
+    "name": "spider-man.jpg"
+  }]
+},
+{
+  "id": 13,
+  "name": "Emma Frost",
+  "description": "Emma Grace Frost is a fictional character appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men. The character first appeared in Uncanny X-Men #129 (January 1980), and was created by writer Chris Claremont and artist/co-writer John Byrne. Emma Frost, also known as the White Queen, has evolved from a supervillain and foe of the X-Men, to becoming a superhero and one of the X-Men's most central members and leaders.",
+  "type": "Villain/X-Men",
+  "price": 19.99,
+  "images": [{
+    "name": "white-queen.jpg"
+  }]
+},
+{
+  "id": 14,
+  "name": "Wolverine",
+  "description": "Wolverine is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. Born James Howlett[1] and commonly known as Logan, Wolverine is a mutant who possesses animal-keen senses, enhanced physical capabilities, and a healing factor. He has been depicted variously as a member of the X-Men, Alpha Flight, and the Avengers.",
+  "type": "X-Men",
+  "price": 19.99,
+  "images": [{
+    "name": "wolverine.jpg"
+  },{
+    "name": "wolverine2.jpg"
+  }]
+}
+]
+
+
+
+
